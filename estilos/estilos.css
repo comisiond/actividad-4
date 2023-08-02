@@ -1,0 +1,49 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+/* body {
+    background-color: darkgreen;
+} */
+html{
+    font-size:62.5%;
+}
+
+h1,h2{
+    color:red;
+    text-align: center;
+
+}
+
+p{
+   
+
+    font-family: 'Borel', cursive;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2{
+    text-decoration:underline;
+}
+
+p span{
+    color:darkred;
+    text-decoration: underline;
+}
+
+.parrafo-2{
+color: blue;
+font-size: 1.6rem;
+
+}
+
+#parrafo-3{
+    color:blueviolet;
+}
+
+.titulo-1{
+    text-decoration: underline;
+    
+}
